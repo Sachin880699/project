@@ -7,5 +7,5 @@
     "technology_col" : "measnettype",
     "value_col" : "meastestresult",
     "test_type_col" : "meastesttype",
-    "connection":"postgresql+psycopg2://postgres:k+RCtY&n-Q42@kJ@83.15.153.9:5432/notel_db"
+    "connection":""
 }
